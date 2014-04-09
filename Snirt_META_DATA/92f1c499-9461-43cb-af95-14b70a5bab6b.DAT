@@ -141,7 +141,7 @@
     </FileVersionCommitExtension>
   </FileVersionCommitExtensions>
   <CurrentFilterCriteria>
-    <FileNamePattern>*.xls</FileNamePattern>
+    <FileNamePattern />
     <Following>false</Following>
     <Collaborators />
     <Tags />
@@ -150,6 +150,6 @@
     <Unpublished>false</Unpublished>
     <InConflict>false</InConflict>
     <Open>false</Open>
-    <FolderEntryView>Thumbnail</FolderEntryView>
+    <FolderEntryView>List</FolderEntryView>
   </CurrentFilterCriteria>
 </User>
