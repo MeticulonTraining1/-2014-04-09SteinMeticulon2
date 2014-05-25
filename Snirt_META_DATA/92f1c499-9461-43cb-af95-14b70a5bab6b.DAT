@@ -31,6 +31,9 @@
     <Follow>
       <DocumentPath>1.docx</DocumentPath>
     </Follow>
+    <Follow>
+      <DocumentPath>2.docx</DocumentPath>
+    </Follow>
   </Follows>
   <FileVersionCommitExtensions>
     <FileVersionCommitExtension>
@@ -107,7 +110,6 @@
     </FileVersionCommitExtension>
   </FileVersionCommitExtensions>
   <CurrentFilterCriteria>
-    <FileNamePattern>1</FileNamePattern>
     <Following>false</Following>
     <Collaborators />
     <Tags />
