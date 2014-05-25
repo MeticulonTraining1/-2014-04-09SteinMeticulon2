@@ -26,9 +26,6 @@
   <MergeConflicts />
   <Follows>
     <Follow>
-      <DocumentPath>1.docx</DocumentPath>
-    </Follow>
-    <Follow>
       <DocumentPath>1982_-dk.st.xlsx</DocumentPath>
     </Follow>
   </Follows>
