@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>f7e7fe35-f479-4bd1-b2f5-ac92964a6bcf</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>1.docx</DisplayName>
+    <PathInsideRepo />
+    <RepoRootFolder>C:\Users\Admin\Documents\steinsrepo</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>8d9e97d8-9346-4f88-926b-a720c6947387</guid>
+  </Tags>
+</FolderEntryTags>
